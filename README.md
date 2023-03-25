@@ -1,4 +1,4 @@
-# Log Analisys
+# Log Analisys - NOTES
 
 Manual commands
 - awk -F- '{print $1}' file.log
