@@ -1,1 +1,4 @@
-# log-analisys
+# Log Analisys
+
+- Manual commands
+/ awk 
